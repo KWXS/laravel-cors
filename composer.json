@@ -1,5 +1,5 @@
 {
-    "name": "KWXS/laravel-cors",
+    "name": "kwxs/laravel-cors",
     "description": "Send CORS headers in a Laravel application",
     "license": "MIT",
     "authors": [
